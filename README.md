@@ -24,7 +24,7 @@
 
 
 
-I used the user-supplied needs and stories to round out the development process. It is very impostant since the Agile Framework dictates that Customer-centric businesses generate greater profits, increased employee engagement, and more satisfied customers. Customer-centric governments and nonprofits create the resiliency, sustainability, and alignment needed to fulfill their mission. All customer-centric enterprises deliver whole-product solutions that are designed with a deep understanding of customer needs. (SAFe, 2021)
+I incorporated user-supplied needs and stories to round out the development process. It is very important since the Agile Framework dictates that Customer-centric businesses generate greater profits, increased employee engagement, and more satisfied customers. Customer-centric governments and nonprofits create the resiliency, sustainability, and alignment needed to fulfill their mission. All customer-centric enterprises deliver whole-product solutions that are designed with a deep understanding of customer needs. (SAFe, 2021)
 © Scaled Agile, Inc.
 Why is it so important to consider the user’s needs when designing?
 It is extremely important to consider the user's needs and the user stories when building the application.
