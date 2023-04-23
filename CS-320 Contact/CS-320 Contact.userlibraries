@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<eclipse-userlibraries>
+  <library name="lib">
+    <archive path="C:/Users/sdkoe/OneDrive/Desktop/CS-320 Contact/lib/junit-4.13.2.jar" />
+    <archive path="C:/Users/sdkoe/OneDrive/Desktop/CS-320 Contact/lib/hamcrest-core-1.3.jar" />
+  </library>
+</eclipse-userlibraries>
+
